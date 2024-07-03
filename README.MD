@@ -15,3 +15,5 @@
 - Python            
 - Pandas (Muito usado para análise e tratamento de base de dados)
 - Matplotlib (Gráfico)
+
+--> pip install pandas numpy matplotlib <--
